@@ -1,0 +1,35 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    flex:1
+}
+.subitem{
+    display: flex;
+    height: 18rem; 
+    width: 11rem; 
+    border:1px solid black;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+}
+.subitem:hover{
+    box-shadow: 2px 5px #888888;
+}
+.im-box{
+    height: 13rem; 
+    width: 10rem; 
+    margin-top: 4px;
+}
+.descr{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5px;
+}
+.rate{
+    margin-left: 5px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.textdeco{
+    text-decoration: none;
+    color: black;
+}

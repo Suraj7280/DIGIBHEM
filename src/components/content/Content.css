@@ -1,0 +1,42 @@
+.contet{
+    display: flex;
+    flex-wrap: wrap;
+}
+.left-c{
+    display:flex;
+    width: 20%;
+    background-color: rgb(213, 212, 212);
+   height: 100%;
+   position: fixed;
+   margin-top: 4rem;
+
+}
+.right-c{
+    display:flex;
+    justify-content: center;
+    flex: 1; 
+    margin-left: 20rem;
+}
+.search-co{
+display: flex;  
+justify-content: center;
+flex-direction:column;
+margin-top: 1rem;
+margin-top: 5rem;
+
+}
+.search{
+    display: flex;  
+justify-content: center;
+}
+.but{
+    margin-left: 6px;
+    background-color: blue;
+    color: aliceblue;
+    border-color: blue;
+}
+.category{
+    display: flex;
+    padding: 2rem;
+    flex-direction: column;
+}

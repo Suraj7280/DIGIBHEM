@@ -1,0 +1,21 @@
+.hoemcontainer{
+    background: rgb(149, 114, 255);
+    height: 4rem;
+    position: fixed;
+    width: 100%;
+    
+}
+.hsubcont{
+    padding: 1rem;
+    display: flex;
+    justify-content:space-between;
+    color: aliceblue;
+
+    
+}
+.right{
+    display: flex;
+}
+.headr{
+    margin-left: 1rem;
+}
